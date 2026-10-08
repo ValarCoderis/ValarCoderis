@@ -8,9 +8,10 @@
 
 # ⚔️ Kaushal Meghani
 
-### `ValarCoderis` · Code is coming.
+### `ValarCoderis` · Developer · Code is coming.
 
-[![GitHub](https://img.shields.io/badge/GitHub-ValarCoderis-181717?style=for-the-badge&logo=github)](https://github.com/ValarCoderis)
+[![GitHub](https://img.shields.io/badge/GitHub-ValarCoderis-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ValarCoderis)
+[![Profile Views](https://komarev.com/ghpvc/?username=ValarCoderis&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/ValarCoderis)
 
 </div>
 
@@ -19,5 +20,8 @@
 ## 🐺 About Me
 
 ```txt
-A developer learning, building, and exploring
-one commit at a time.
+Name       : Kaushal Meghani
+Username   : ValarCoderis
+Role       : Developer & Learner
+Interests  : Technology, Coding, Open Source, Fantasy
+Motto      : Code is coming.
